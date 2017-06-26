@@ -1,5 +1,5 @@
 'use strict';
-var toggleMenu = function (event) {
+var toggleMenu = function () {
   var menu = document.getElementById('js-menu-small');
   if (menu.classList.contains('hide')) {
     menu.classList.remove('hide');

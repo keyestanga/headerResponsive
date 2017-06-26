@@ -22,15 +22,15 @@ body {
           align-items: center; }
 
 .btn-menu-icon {
-  width: 100%;
-  max-width: 100%; }
+  width: 50px; }
 
 .btn-menu {
   background: none;
   border: none; }
 
 .brand {
-  max-width: 100%; }
+  max-width: 100%;
+  width: 100%; }
 
 .nav {
   display: none; }
